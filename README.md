@@ -1,4 +1,4 @@
-# Website
-My personal website, portfolio and thoughts
+## Website
+####My personal website, portfolio and thoughts
 
-See all updates in dorajam.github.io repository
+*See all updates in dorajam.github.io repository*
